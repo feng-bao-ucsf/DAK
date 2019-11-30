@@ -118,7 +118,7 @@ for i in range(len(batch_index) - 1):
         path_data_buf = np.load(
             pathway_npy_path + '/pathway_' + str(path_iter) + '.npy')
         # [N,len,3]
-        path_data_buf_select = path_data_buf[batch_index[i]                                             :batch_index[i + 1], :, :]
+        path_data_buf_select = path_data_buf[batch_index[i]:batch_index[i + 1], :, :]
         batch_seq[path_iter, :, :path_data_buf_select.shape[1],
                   :] = path_data_buf_select
 
