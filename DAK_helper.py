@@ -9,7 +9,7 @@ import time
 from scipy.stats import chi2
 import os
 
-# Network Structure Setting, refer to Supplementary Fig
+# Network Structure Setting, refer to Supplementary Fig 1
 SEQ_FORMAT = 3
 CONV_WINDOW_SIZE = 100
 CONV_KERNEL_NUM = 64
