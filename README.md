@@ -46,15 +46,15 @@ DAK requires the following packages for installation:
 The parameters of DAK function is listed as follows:
 
 ```python
-dak = DAK(sess, # tensorflow session that conducts learning task
-          batch_path_prefix=batch_path_prefix, #  file path of genotype data in batches
-          label_path_prefix=label_path_prefix, #  file path of label data in batches
-          cov_path_prefix=cov_path_prefix,  #  file path of covariant data in 
-          p_val_path=p_val_path, #  file path of p-values by DAK
-          batch_num=batch_num, #  the batch number of the data
-          batch_size=batch_size, # sample number in each batch file
-          pathway_num=pathway_num, # number of gene sets
-          max_path_len=max_path_len, # the maximal SNP number among all gene sets 
+dak = DAK(sess,                                 #  tensorflow session that conducts learning task
+          batch_path_prefix=batch_path_prefix,  #  file path of genotype data in batches
+          label_path_prefix=label_path_prefix,  #  file path of label data in batches
+          cov_path_prefix=cov_path_prefix,      #  file path of covariant data in 
+          p_val_path=p_val_path,                #  file path of p-values by DAK
+          batch_num=batch_num,                  #  the batch number of the data
+          batch_size=batch_size,                #  sample number in each batch file
+          pathway_num=pathway_num,              #  number of gene sets
+          max_path_len=max_path_len,            #  the maximal SNP number among all gene sets 
           );
 ```
 
