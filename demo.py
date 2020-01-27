@@ -7,7 +7,7 @@ from scipy import stats
 label_path = './demo_data/pheno.txt'
 # cov_path = '../application/LC_pathway/LC_pathway_cov.txt'
 
-# set the aim paths of result and
+# set the aim paths of result
 result_path = './demo_data/p.txt'
 pathway_npy_path = './demo_data/pathway_onehot'
 batch_npy_path = './demo_data/batch'
