@@ -1,3 +1,10 @@
+'''
+This is a demonstration of DAK, including
+> prepare genotype, phenotype and covariables for input
+> parameter setting of DAK
+> output reading
+'''
+
 import DAK_main as DAK
 import numpy as np
 import pandas as pd
