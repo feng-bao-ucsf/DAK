@@ -144,7 +144,7 @@ Results were store in path specified in `result_path`.
 
 # Example
 
-## Code:
+## Code
 See `demo.py`.
 
 ## Data
@@ -153,7 +153,7 @@ In `./demo_data/`:
 - Genotype: `./demo_data/pathway_*.raw_geno.txt`
 - Phenoytpe: `./demo_data/pheno.txt`
 
-# Copy right
+## Copyright
 Software provided as is under MIT License.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
