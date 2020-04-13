@@ -20,6 +20,11 @@ DAK requires the following packages for installation:
 
 ## Usage
 
+### Installation
+```terminal
+pip install dak
+```
+
 ### Data preparation
 1. Genotype data
 
