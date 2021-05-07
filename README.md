@@ -4,12 +4,12 @@
 
 Causal loci contribute to complex diseases in various manners. The comprehensive identification of suspicious genes requires a general genome-wide association study (GWAS) model that can work with different types of genetic effects. Here, we introduce a deep association kernel learning (DAK) model to enable automatic causal genotype encoding for pathway-level GWAS. Therefore, DAK is able to detect common and rare variants with complicated genetic effects that existing approaches fail. DAK is published as a cover paper in [_Patterns_](https://www.sciencedirect.com/journal/patterns/vol/1/issue/6).
 
-| ![Cover](/cover.jpg =200x)|
+
+<img style="float: right;" src = "cover.jpg" width ="300" />
 > Citation: 
 > Bao, Feng, et al. "Explaining the Genetic Causality for Complex Phenotype via Deep Association Kernel Learning." Patterns 1.6 (2020): 100057.
 
 
-<img style="float: right;" src = "cover.jpg" width ="200" />
 ## Package requirements
 
 DAK requires the following packages for installation:
