@@ -6,6 +6,7 @@ Causal loci contribute to complex diseases in various manners. The comprehensive
 
 
 <img style="float: right;" src = "cover.jpg" width ="300" />
+
 > Citation: 
 > Bao, Feng, et al. "Explaining the Genetic Causality for Complex Phenotype via Deep Association Kernel Learning." Patterns 1.6 (2020): 100057.
 
